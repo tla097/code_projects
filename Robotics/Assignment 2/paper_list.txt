@@ -1,0 +1,108 @@
+###################################################################
+
+(I) **SLAM + Localization**
+
+Papers in: https://www.cs.bham.ac.uk/~sridharm/Teaching/Papers/Localization/
+
+
+Hugh Durrant-Whyte and Tim Bailey. Simultaneous localization and mapping: part I. IEEE Robotics & Automation Magazine, vol. 13, no. 2, pp. 99-110, June 2006.
+
+Hugh Durrant-Whyte and Tim Bailey. Simultaneous localization and mapping: part II. IEEE Robotics & Automation Magazine, vol. 13, no. 3, pp. 108-117, September 2006.
+
+Todd Hester and Peter Stone. Negative Information and Line Observations for Monte Carlo Localization. International Conference on Robotics and Automation, May 2008.
+
+H. Peel, S. Luo, A.G. Cohn, R. Fuentes. Localisation of a mobile robot for bridge bearing inspection. Automation in Construction, vol. 94, pp. 244-256, 2018.
+
+
+###################################################################
+
+(II) **Vision-based SLAM**
+
+Papers in: https://www.cs.bham.ac.uk/~sridharm/Teaching/Papers/Localization/
+
+
+Andrew J. Davison, Ian D. Reid, Nicholas D. Molton and Olivier Stasse. MonoSLAM: Real-Time Single Camera SLAM. IEEE Transactions on Pattern Analysis and Machine Intelligence,  vol 29, no. 6,  June 2007.
+
+Renato F. Salas-Moreno, Richard A. Newcombe, Hauke Strasdat, Paul H. J. Kelly, and Andrew J. Davison. SLAM++: SLAM with Objects. International Conference on Computer Vision and Pattern Recognition, 2013.
+
+
+
+###################################################################
+
+
+(III) ** Spatial/Semantic/Qualitative Representation and Reasoning (classic+modern)**
+
+Papers in: https://www.cs.bham.ac.uk/~sridharm/Teaching/Papers/Cognition/
+Papers in: https://www.cs.bham.ac.uk/~sridharm/Teaching/Papers/Reason_CogArch/
+
+
+Benjamin J. Kuipers. The Spatial Semantic Hierarchy. Artificial Intelligence Journal, vol. 119, pp. 191-233, 2000.
+
+Anthony G. Cohn, Shyamanta M. Hazarika. Qualitative spatial representation and reasoning: An overview. Fundamenta informaticae 46 (1-2), 1-29, 2001.
+
+Anthony G Cohn, Jochen Renz. Qualitative spatial representation and reasoning. Foundations of Artificial Intelligence, vol. 3. Handbook of Knowledge Representation and Reasoning, pp. 551-596. Elsevier, 2008.
+
+Akshaya Thippur, Chris Burbridge, Lars Kunze, Marina Alberti, John Folkesson, Patric Jensfelt, and Nick Hawes. A Comparison of Qualitative and Metric Spatial Relation Models for Scene Understanding. In AAAI Conference, pages 1632-1640, 2015.
+
+Tiago Mota and Mohan Sridharan. Incrementally Grounding Expressions for Spatial Relations between Objects. In the International Joint Conference on Artificial Intelligence, July 2018.
+
+
+###################################################################
+
+(IV) **Probabilistic Planning (POMDPs)**
+
+Papers in: https://www.cs.bham.ac.uk/~sridharm/Teaching/Papers/Reason_CogArch/
+
+Leslie P. Kaelbling, Michael L. Littman and Anthony R. Cassandra. Planning and Acting in Partially Observable Stochastic Domains. Artificial Intelligence Journal, 101(1-2): 99-134, 1998.
+
+Joelle Pineau and Sebastian Thrun. High-level Robot Behavior Control using POMDPs. In AAAI Conference, 2002.
+
+Mohan Sridharan, Jeremy Wyatt and Richard Dearden. HiPPo: Hierarchical POMDPs for Planning Information Processing and Sensing Actions on a Robot. International Conference on Automated Planning and Scheduling, September 2008.
+
+
+
+###################################################################
+
+(V) **Integrated Robot Systems + Neuro-symbolic Systems**
+
+Papers in: https://www.cs.bham.ac.uk/~sridharm/Teaching/Papers/Reason_CogArch/
+
+N. Hawes et al. The STRANDS Project: Long-Term Autonomy in Everyday Environments. IEEE Robotics & Automation Magazine, vol. 24, no. 3, pp. 146-156, September 2017
+
+James R. Kirk and John E. Laird. Learning hierarchical symbolic representations to support interactive task learning and knowledge transfer. International Joint Conference on Artificial Intelligence, pp. 6095-6102, 2019. AAAI Press. 
+
+Tiago Mota and Mohan Sridharan. Commonsense Reasoning and Knowledge Acquisition to Guide Deep Learning on Robots. Robotics Science and Systems Conference, June 2019.
+
+Tiago Mota, Mohan Sridharan and Ales Leonardis. Integrated Commonsense Reasoning and Deep Learning for Transparent Decision Making in Robotics. Springer Nature Computer Science, vol. 2, 242, 2021.
+
+
+
+###################################################################
+
+(VI) **Cognitive Systems**
+
+Papers in: https://www.cs.bham.ac.uk/~sridharm/Teaching/Papers/Cognition/
+
+
+Pat Langley and Herbert A. Simon. The Central Role of Learning in Cognition. In J.  Anderson (Ed.). Cognitive skills and their acquisition. Lawrence Erlbaum Associates, 1981.
+
+Pat Langley. The central role of cognition in learning. Advances in Cognitive Systems, 4, 3-12, 2016.
+
+Pat Langley. Progress and challenges in research on cognitive architectures. AAAI Conference on Artificial Intelligence, 2017.
+
+
+
+###################################################################
+
+(VII) **Field Robotics (old)**
+
+Papers in: https://www.cs.bham.ac.uk/~sridharm/Teaching/Papers/Robotics/
+
+
+Sebastian Thrun et al. Stanley: The Robot that Won the DARPA Grand Challenge. Journal of Field Robotics, 23(9): 661-692, 2006. 
+
+William Stone et al. Design and deployment of a four-degrees-of-freedom hovering autonomous underwater vehicle for sub-ice exploration and mapping. Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment, 224 (4): 341-361, 2010. 
+
+
+
+###################################################################
