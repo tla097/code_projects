@@ -1,0 +1,9 @@
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+score = 0.9845672983004493, time = 810.6523494720459 [Gradient Boosted Classifier] params = {'learning_rate': 0.2, 'loss': 'log_loss', 'n_estimators': 290}
+score = 0.5430748193006446, time = 1435.856392621994 [SVM Classifier] params = {'C': 0.4, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'poly'}
+score = 0.9900371166243407, time = 379.150661945343 [Random Forest Classifer] params = {'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 250}
+score = 0.5868333658917757, time = 0.14225220680236816 [Naive Bayes Classifier] params = {}
+Accuracy: 0.8239890603633522, time = 21.974072456359863: [Cross Validation] children = ['Gradient Boosted Classifier', 'SVM Classifier', 'Random Forest Classifer', 'Naive Bayes Classifier']
+Accuracy: 0.9703067005274467, time = 8.57211446762085: [Cross Validation] children = ['Gradient Boosted Classifier', 'Random Forest Classifer']
+['Duration', 'Cycle', 'Month', 'Quarter', 'Failure_Percentage']
+score = 0.9724555577261184, time = 368.7338619232178 [Gradient Boosted Classifier] params = {'learning_rate': 0.2, 'loss': 'log_loss', 'n_estimators': 290}

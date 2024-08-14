@@ -1,0 +1,16 @@
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+score = 0.9826137917562023, time = 804.5169014930725 [Gradient Boosted Classifier] params = {'learning_rate': 0.2, 'loss': 'log_loss', 'n_estimators': 290}
+score = 0.8179331900761867, time = 797.6011347770691 [SVM Classifier] params = {'C': 1.6, 'decision_function_shape': 'ovo', 'gamma': 'auto', 'kernel': 'poly'}
+score = 0.9853487009181481, time = 377.28116846084595 [Random Forest Classifer] params = {'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 100}
+score = 0.6417268997851143, time = 0.1473400592803955 [Naive Bayes Classifier] params = {}
+Accuracy: 0.8648173471381129, time = 18.315689086914062: [Cross Validation] children = ['Gradient Boosted Classifier', 'SVM Classifier', 'Random Forest Classifer', 'Naive Bayes Classifier']
+Accuracy: 0.966985739402227, time = 8.583610773086548: [Cross Validation] children = ['Gradient Boosted Classifier', 'Random Forest Classifer']
+['Duration', 'Cycle', 'Month', 'Quarter', 'Failure_Percentage']
+score = 0.9710881031451455, time = 751.9729685783386 [Gradient Boosted Classifier] params = {'learning_rate': 0.2, 'loss': 'log_loss', 'n_estimators': 290}
+['Duration', 'Cycle', 'Month', 'Quarter', 'Failure_Percentage']
+score = 0.9732369603438171, time = 380.75217485427856 [Gradient Boosted Classifier] params = {'learning_rate': 0.2, 'loss': 'log_loss', 'n_estimators': 290}
+score = 0.8575893729243993, time = 682.7643668651581 [SVM Classifier] params = {'C': 1.4000000000000001, 'decision_function_shape': 'ovo', 'gamma': 'scale', 'kernel': 'rbf'}
+score = 0.972064856417269, time = 265.37654638290405 [Random Forest Classifer] params = {'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 150}
+score = 0.6511037311974995, time = 0.03259587287902832 [Naive Bayes Classifier] params = {}
+Accuracy: 0.9027153740965033, time = 9.593408584594727: [Cross Validation] children = ['Gradient Boosted Classifier', 'SVM Classifier', 'Random Forest Classifer', 'Naive Bayes Classifier']
+Accuracy: 0.9527251416292245, time = 4.022700071334839: [Cross Validation] children = ['Gradient Boosted Classifier', 'Random Forest Classifer']
