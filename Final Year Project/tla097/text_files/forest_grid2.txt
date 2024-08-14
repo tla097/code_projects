@@ -1,0 +1,9 @@
+Index(['Verdict', 'Cycle_normalized', 'my_maturity_normalized', 'Month',
+       'Failure_Percentage', 'last_run_normalised_log',
+       'times_ran_normalized'],
+      dtype='object')
+score = 0.7476149893757327, est = 100                                BEST = 0.7476149893757327
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.7259286006496678, est = 100                                BEST = 0.7259286006496678

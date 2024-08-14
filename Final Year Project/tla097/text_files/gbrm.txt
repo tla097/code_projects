@@ -1,0 +1,48 @@
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.7978120726704434, params = {}, time = 11.872020483016968                                BEST = 0.7978120726704434
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.8073842547372534, params = {}, time = 11.863564491271973                                BEST = 0.8073842547372534
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.804453994920883, params = {}, time = 11.953039646148682                                BEST = 0.804453994920883
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.8007423324868138, params = {}, time = 11.874177932739258                                BEST = 0.8007423324868138
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.7401836296151592, params = {'loss': ['log_loss'], 'learning_rate': [0.01, 0.025, 0.05, 0.075, 0.1, 0.15, 0.2], 'min_samples_split': array([0.1       , 0.13636364, 0.17272727, 0.20909091, 0.24545455,
+       0.28181818, 0.31818182, 0.35454545, 0.39090909, 0.42727273,
+       0.46363636, 0.5       ]), 'min_samples_leaf': array([0.1       , 0.13636364, 0.17272727, 0.20909091, 0.24545455,
+       0.28181818, 0.31818182, 0.35454545, 0.39090909, 0.42727273,
+       0.46363636, 0.5       ]), 'max_depth': [3, 5, 8], 'max_features': ['log2', 'sqrt'], 'criterion': ['friedman_mse', 'squared_error'], 'subsample': [0.5, 0.618, 0.8, 0.85, 0.9, 0.95, 1.0], 'n_estimators': [10]}, time = 8968.741370916367                                BEST = 0.7401836296151592
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.9675717913655011, params = {}, time = 14.11001205444336                                BEST = 0.9675717913655011
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.8954873998827896, params = {'loss': ['log_loss'], 'learning_rate': [0.01, 0.025, 0.05, 0.075, 0.1, 0.15, 0.2], 'min_samples_split': array([0.1       , 0.13636364, 0.17272727, 0.20909091, 0.24545455,
+       0.28181818, 0.31818182, 0.35454545, 0.39090909, 0.42727273,
+       0.46363636, 0.5       ]), 'min_samples_leaf': array([0.1       , 0.13636364, 0.17272727, 0.20909091, 0.24545455,
+       0.28181818, 0.31818182, 0.35454545, 0.39090909, 0.42727273,
+       0.46363636, 0.5       ]), 'max_depth': [3, 5, 8], 'max_features': ['log2', 'sqrt'], 'criterion': ['friedman_mse', 'squared_error'], 'subsample': [0.5, 0.618, 0.8, 0.85, 0.9, 0.95, 1.0], 'n_estimators': [10]}, time = 9482.353578090668                                BEST = 0.8954873998827896

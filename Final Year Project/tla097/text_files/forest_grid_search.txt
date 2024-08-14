@@ -1,0 +1,55 @@
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.9869115061535456, params = {}, time = 5.164581537246704                                BEST = 0.9869115061535456
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.987302207462395, params = {}, time = 5.198218584060669                                BEST = 0.987302207462395
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.986716155499121, params = {}, time = 5.20181679725647                                BEST = 0.986716155499121
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.9855440515725727, params = {}, time = 5.281287670135498                                BEST = 0.9855440515725727
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.8089470599726509, params = {}, time = 4.368661880493164                                BEST = 0.8089470599726509
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.7964446180894706, params = {}, time = 4.261827707290649                                BEST = 0.7964446180894706
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.8107052158624731, params = {}, time = 4.291348218917847                                BEST = 0.8107052158624731
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.80640750146513, params = {}, time = 4.353113889694214                                BEST = 0.80640750146513
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.8093377612815003, params = {}, time = 4.501392841339111                                BEST = 0.8093377612815003
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.8023051377222113, params = {}, time = 4.326595067977905                                BEST = 0.8023051377222113
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.801914436413362, params = {'n_estimators': [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, 200, 210, 220, 230, 240, 250, 260, 270, 280, 290]}, time = 64.15274000167847                                BEST = 0.801914436413362
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.9865208048446962, params = {}, time = 2.7115390300750732                                BEST = 0.9865208048446962
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.9855440515725727, params = {'n_estimators': [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, 200, 210, 220, 230, 240, 250, 260, 270, 280, 290]}, time = 45.582138538360596                                BEST = 0.9855440515725727

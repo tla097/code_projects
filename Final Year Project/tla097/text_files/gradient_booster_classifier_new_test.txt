@@ -1,0 +1,95 @@
+
+
+Current Biggest = 0.9787075639898397, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9787075639898397
+
+
+Current Biggest = 0.9792546374316139, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9792546374316139
+
+
+Current Biggest = 0.9183445834554513, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9183445834554513
+
+
+Current Biggest = 0.9116246122753029, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9116246122753029
+
+
+Current Biggest = 0.9726126080744433, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9726126080744433
+
+
+Current Biggest = 0.7199134793864791, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.7199134793864791
+
+
+Current Biggest = 0.9823027336117625, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9823027336117625
+
+
+Current Biggest = 0.982146422552755, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.982146422552755
+
+
+Current Biggest = 0.9343568960042985, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9343568960042985
+
+
+Current Biggest = 0.7191322141217271, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.7191322141217271
+
+
+Current Biggest = 0.9730815259867136, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9730815259867136
+
+
+Current Biggest = 0.9730424329572098, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9730424329572098
+
+
+Current Biggest = 0.9730033704572099, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9730033704572099
+
+
+Current Biggest = 0.9730033704572099, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9730033704572099
+
+
+Current Biggest = 0.972964292692458, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.972964292692458
+
+
+Current Biggest = 0.9724953595154359, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9724953595154359
+
+
+Current Biggest = 0.9726907330744432, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9726907330744432
+
+
+Current Biggest = 0.9710104960433764, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.8}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.8} -> score = 0.9710104960433764
+
+
+Current Biggest = 0.7515507766705745, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.7515507766705745

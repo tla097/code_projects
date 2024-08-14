@@ -1,0 +1,43 @@
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.4172689978511428, params = {}, time = 28.52587866783142                                BEST = 0.4172689978511428
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.43172494627857005, params = {}, time = 28.721242666244507                                BEST = 0.43172494627857005
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.433678452822817, params = {}, time = 29.136049032211304                                BEST = 0.433678452822817
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.4233248681383083, params = {}, time = 28.748530864715576                                BEST = 0.4233248681383083
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.5639773393240868, params = {'kernel': ['poly', 'rbf', 'sigmoid'], 'C': [0.1, 1, 10], 'gamma': ['scale', 'auto'], 'degree': [3, 5, 7]}, time = 716.9266741275787                                BEST = 0.5639773393240868
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.4225434655206095, params = {}, time = 28.904953956604004                                BEST = 0.4225434655206095
+Index(['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run',
+       'times_ran'],
+      dtype='object')
+score = 0.5653447939050595, params = {'kernel': ['poly', 'rbf', 'sigmoid'], 'C': [0.1, 1, 10], 'gamma': ['scale', 'auto'], 'degree': [3, 5, 7]}, time = 802.1692249774933                                BEST = 0.5653447939050595
