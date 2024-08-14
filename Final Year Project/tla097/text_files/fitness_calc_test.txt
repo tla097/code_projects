@@ -1,0 +1,85 @@
+generation = 0 - total steps = 4063 - pwr2_mut_none_cross_ar - round steps = 20532   correct = 0.62342 - mae = 0.11253853853853851, AFPD = 0.6300568513119533, NPRA = 0.955674627767442 -time taken = 11.695733547210693
+
+generation =  - total steps = 8203 - pwr2_mut_none_cross_ar - round steps = 19831   correct = 0.68963 - mae = 0.07806206206206205, AFPD = 0.5619074074074073, NPRA = 0.9767511321014315 -time taken = 20.609819173812866
+
+generation = 2 - total steps = 12291 - pwr2_mut_none_cross_ar - round steps = 25829   correct = 0.64772 - mae = 0.047579579579579576, AFPD = 0.5875394366197182, NPRA = 0.9909567468459684 -time taken = 9.84752106666565
+
+generation = 3 - total steps = 16372 - pwr2_mut_none_cross_ar - round steps = 13512   correct = 0.74030 - mae = 0.0402982982982983, AFPD = 0.6106737891737891, NPRA = 0.9942000394814765 -time taken = 8.543164014816284
+
+generation = 4 - total steps = 20456 - pwr2_mut_none_cross_ar - round steps = 14387   correct = 0.76263 - mae = 0.043409409409409405, AFPD = 0.6193040345821326, NPRA = 0.9909487548379763 -time taken = 6.642693281173706
+
+generation = 3 - total steps = 16372 - pwr2_mut_none_cross_ar - round steps = 13512   correct = 0.74030 - mae = 0.0402982982982983, AFPD = 0.6106737891737891, NPRA = 0.9942000394814765 -time taken = 8.543164014816284
+
+generation = 6 - total steps = 28640 - pwr2_mut_none_cross_ar - round steps = 13099   correct = 0.76181 - mae = 0.035845845845845846, AFPD = 0.6000902578796561, NPRA = 0.9959314966470655 -time taken = 8.72445273399353
+
+generation = 7 - total steps = 32778 - pwr2_mut_none_cross_ar - round steps = 12794   correct = 0.72550 - mae = 0.03665465465465466, AFPD = 0.6047234957020057, NPRA = 0.9954991804602583 -time taken = 8.329596042633057
+
+generation = 8 - total steps = 36921 - pwr2_mut_none_cross_ar - round steps = 13237   correct = 0.69668 - mae = 0.03549349349349349, AFPD = 0.6107624309392264, NPRA = 0.9959321785998432 -time taken = 8.507056474685669
+
+generation = 9 - total steps = 41040 - pwr2_mut_none_cross_ar - round steps = 14271   correct = 0.72076 - mae = 0.03637837837837837, AFPD = 0.6289259259259259, NPRA = 0.9955455353030203 -time taken = 9.509446859359741
+
+generation = 10 - total steps = 45374 - pwr2_mut_none_cross_ar - round steps = 17738   correct = 0.71164 - mae = 0.029405405405405403, AFPD = 0.6014278996865203, NPRA = 0.9960702919834655 -time taken = 11.12439227104187
+
+generation = 11 - total steps = 49463 - pwr2_mut_none_cross_ar - round steps = 12111   correct = 0.72678 - mae = 0.0382002002002002, AFPD = 0.6235201729106628, NPRA = 0.9955005174466252 -time taken = 8.17021632194519
+
+generation = 12 - total steps = 53812 - pwr2_mut_none_cross_ar - round steps = 14332   correct = 0.70821 - mae = 0.04033033033033033, AFPD = 0.6122914285714285, NPRA = 0.9937205040468513 -time taken = 8.479730367660522
+
+generation = 13 - total steps = 57835 - pwr2_mut_none_cross_ar - round steps = 12402   correct = 0.74182 - mae = 0.031475475475475474, AFPD = 0.6274505813953488, NPRA = 0.9964370360178743 -time taken = 9.159796953201294
+
+generation = 14 - total steps = 62035 - pwr2_mut_none_cross_ar - round steps = 15363   correct = 0.71867 - mae = 0.033565565565565565, AFPD = 0.635659509202454, NPRA = 0.9960046450555431 -time taken = 9.704570055007935
+
+generation = 15 - total steps = 66579 - pwr2_mut_none_cross_ar - round steps = 15423   correct = 0.69169 - mae = 0.03347147147147147, AFPD = 0.610539039039039, NPRA = 0.9959874825773029 -time taken = 11.195314645767212
+
+generation = 16 - total steps = 70899 - pwr2_mut_none_cross_ar - round steps = 12567   correct = 0.72300 - mae = 0.035309309309309304, AFPD = 0.5953761904761905, NPRA = 0.9953187172109327 -time taken = 8.595297813415527
+
+generation = 17 - total steps = 75189 - pwr2_mut_none_cross_ar - round steps = 13109   correct = 0.74521 - mae = 0.03024824824824825, AFPD = 0.6122840909090909, NPRA = 0.9967461281233736 -time taken = 5.985406398773193
+
+generation = 18 - total steps = 79505 - pwr2_mut_none_cross_ar - round steps = 13049   correct = 0.76810 - mae = 0.02830830830830831, AFPD = 0.6302837078651684, NPRA = 0.9968875346210675 -time taken = 5.860697031021118
+
+generation = 19 - total steps = 83626 - pwr2_mut_none_cross_ar - round steps = 13668   correct = 0.79236 - mae = 0.02791391391391391, AFPD = 0.6054352941176471, NPRA = 0.9974487967122697 -time taken = 6.395415544509888
+
+generation = 20 - total steps = 87991 - pwr2_mut_none_cross_ar - round steps = 13035   correct = 0.73617 - mae = 0.03144344344344344, AFPD = 0.6056769911504425, NPRA = 0.9963497729815094 -time taken = 6.653680801391602
+
+generation = 21 - total steps = 92600 - pwr2_mut_none_cross_ar - round steps = 12726   correct = 0.77589 - mae = 0.027389389389389385, AFPD = 0.5845704225352112, NPRA = 0.9968304808963491 -time taken = 6.183662414550781
+
+generation = 22 - total steps = 97054 - pwr2_mut_none_cross_ar - round steps = 13812   correct = 0.70699 - mae = 0.02501301301301301, AFPD = 0.617678674351585, NPRA = 0.9970733368427978 -time taken = 8.536728382110596
+
+generation = 23 - total steps = 101346 - pwr2_mut_none_cross_ar - round steps = 11498   correct = 0.75274 - mae = 0.02657657657657658, AFPD = 0.6070260115606936, NPRA = 0.9971169130270926 -time taken = 7.439650774002075
+
+generation =  - total steps = 105786 - pwr2_mut_none_cross_ar - round steps = 12329   correct = 0.77533 - mae = 0.0218038038038038, AFPD = 0.6016820809248554, NPRA = 0.9979643111379637 -time taken = 28.438302993774414
+
+generation = 25 - total steps = 110186 - pwr2_mut_none_cross_ar - round steps = 12157   correct = 0.75907 - mae = 0.022990990990990993, AFPD = 0.5963130081300813, NPRA = 0.9963286773107132 -time taken = 9.769697904586792
+
+generation = 26 - total steps = 114662 - pwr2_mut_none_cross_ar - round steps = 11686   correct = 0.79300 - mae = 0.023075075075075068, AFPD = 0.6251763005780346, NPRA = 0.9966042759635574 -time taken = 8.507554054260254
+
+generation = 27 - total steps = 118721 - pwr2_mut_none_cross_ar - round steps = 13417   correct = 0.77081 - mae = 0.022614614614614618, AFPD = 0.6326763005780347, NPRA = 0.9959107688718466 -time taken = 8.882677793502808
+
+generation = 28 - total steps = 123150 - pwr2_mut_none_cross_ar - round steps = 13232   correct = 0.82134 - mae = 0.02029229229229229, AFPD = 0.6263256880733945, NPRA = 0.9974265674445314 -time taken = 8.817535161972046
+
+generation = 29 - total steps = 127644 - pwr2_mut_none_cross_ar - round steps = 12612   correct = 0.82263 - mae = 0.01952152152152152, AFPD = 0.6151495726495726, NPRA = 0.997638194141188 -time taken = 8.210307598114014
+
+generation = 30 - total steps = 132341 - pwr2_mut_none_cross_ar - round steps = 12497   correct = 0.78475 - mae = 0.01902102102102102, AFPD = 0.5948667621776504, NPRA = 0.998099107479347 -time taken = 9.994924068450928
+
+generation = 31 - total steps = 136819 - pwr2_mut_none_cross_ar - round steps = 12624   correct = 0.80410 - mae = 0.01602002002002002, AFPD = 0.616024926686217, NPRA = 0.9982663683621766 -time taken = 8.338049173355103
+
+generation = 32 - total steps = 141381 - pwr2_mut_none_cross_ar - round steps = 12296   correct = 0.78334 - mae = 0.018374374374374374, AFPD = 0.6119463768115941, NPRA = 0.9982603205178056 -time taken = 8.096057176589966
+
+generation = 33 - total steps = 145930 - pwr2_mut_none_cross_ar - round steps = 12386   correct = 0.81552 - mae = 0.02075075075075075, AFPD = 0.5882848101265823, NPRA = 0.9978030412701071 -time taken = 8.342348098754883
+
+generation = 34 - total steps = 150713 - pwr2_mut_none_cross_ar - round steps = 11987   correct = 0.80729 - mae = 0.01960760760760761, AFPD = 0.5962089337175792, NPRA = 0.9962781679398446 -time taken = 7.311873435974121
+
+generation = 35 - total steps = 154971 - pwr2_mut_none_cross_ar - round steps = 11358   correct = 0.83360 - mae = 0.014244244244244243, AFPD = 0.6076994047619046, NPRA = 0.9982566385710098 -time taken = 7.644003629684448
+
+generation = 36 - total steps = 159866 - pwr2_mut_none_cross_ar - round steps = 11850   correct = 0.81679 - mae = 0.016566566566566566, AFPD = 0.6091315789473684, NPRA = 0.9983825276519886 -time taken = 8.201943397521973
+
+generation = 37 - total steps = 164413 - pwr2_mut_none_cross_ar - round steps = 11634   correct = 0.81124 - mae = 0.020242242242242244, AFPD = 0.5968255813953488, NPRA = 0.9969599173281808 -time taken = 7.617167711257935
+
+generation = 38 - total steps = 169041 - pwr2_mut_none_cross_ar - round steps = 11643   correct = 0.81474 - mae = 0.015647647647647648, AFPD = 0.6019376996805111, NPRA = 0.9984851884642303 -time taken = 8.858414649963379
+
+generation =  - total steps = 173765 - pwr2_mut_none_cross_ar - round steps = 11836   correct = 0.82840 - mae = 0.018054054054054056, AFPD = 0.5955143678160919, NPRA = 0.9974272194870996 -time taken = 25.723451614379883
+
+generation = 40 - total steps = 178425 - pwr2_mut_none_cross_ar - round steps = 13237   correct = 0.84234 - mae = 0.018014014014014014, AFPD = 0.5952090395480225, NPRA = 0.997669566959986 -time taken = 8.932389974594116
+
+generation = 41 - total steps = 182733 - pwr2_mut_none_cross_ar - round steps = 14028   correct = 0.85479 - mae = 0.01706706706706707, AFPD = 0.6135605187319884, NPRA = 0.9983844000311065 -time taken = 7.9789652824401855
+
+generation = 42 - total steps = 187691 - pwr2_mut_none_cross_ar - round steps = 12509   correct = 0.82708 - mae = 0.01636036036036036, AFPD = 0.600204678362573, NPRA = 0.9983198687540005 -time taken = 7.790915012359619

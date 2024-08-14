@@ -1,0 +1,27 @@
+
+
+Time = 2024-04-01
+ROUND 40 - total steps = 200 - 0_trunc=_False_env=_an - round steps = 2   correct = 0.18000 - mae = 0.48888888888888893, AFPD = 0.55, NPRA = 0.7295454545454545 - time taken = 1.5039193630218506
+ROUND 86 - total steps = 400 - 0_trunc=_False_env=_an - round steps = 3   correct = 0.64000 - mae = 0.2444444444444444, AFPD = 0.6071428571428572, NPRA = 0.8977272727272726 - time taken = 3.427074909210205
+ROUND 124 - total steps = 600 - 0_trunc=_False_env=_an - round steps = 2   correct = 0.50000 - mae = 0.4888888888888888, AFPD = 0.6357142857142857, NPRA = 0.7068181818181818 - time taken = 5.057659864425659
+ROUND 167 - total steps = 800 - 0_trunc=_False_env=_an - round steps = 6   correct = 0.74833 - mae = 0.4444444444444445, AFPD = 0.45, NPRA = 0.7613636363636364 - time taken = 6.859448671340942
+ROUND 211 - total steps = 1000 - 0_trunc=_False_env=_an - round steps = 7   correct = 0.79143 - mae = 0.4222222222222222, AFPD = 0.6100000000000001, NPRA = 0.7954545454545454 - time taken = 8.711044549942017
+ROUND 255 - total steps = 1200 - 0_trunc=_False_env=_an - round steps = 4   correct = 0.69000 - mae = 0.37777777777777777, AFPD = 0.6357142857142857, NPRA = 0.7977272727272727 - time taken = 10.579879522323608
+ROUND 297 - total steps = 1400 - 0_trunc=_False_env=_an - round steps = 8   correct = 0.64250 - mae = 0.3777777777777777, AFPD = 0.2, NPRA = 0.8136363636363636 - time taken = 12.42673921585083
+ROUND 337 - total steps = 1600 - 0_trunc=_False_env=_an - round steps = 9   correct = 0.70333 - mae = 0.3111111111111111, AFPD = 0.525, NPRA = 0.8227272727272728 - time taken = 14.200145244598389
+ROUND 378 - total steps = 1800 - 0_trunc=_False_env=_an - round steps = 7   correct = 0.79286 - mae = 0.48888888888888893, AFPD = 0.75, NPRA = 0.7295454545454545 - time taken = 15.956185579299927
+ROUND 416 - total steps = 2000 - 0_trunc=_False_env=_an - round steps = 8   correct = 0.72000 - mae = 0.2888888888888889, AFPD = 0.6333333333333333, NPRA = 0.8568181818181817 - time taken = 17.623390197753906
+ROUND 452 - total steps = 2200 - 0_trunc=_False_env=_an - round steps = 8   correct = 0.79500 - mae = 0.33333333333333337, AFPD = 1.05, NPRA = 0.8272727272727273 - time taken = 19.214910984039307
+ROUND 494 - total steps = 2400 - 0_trunc=_False_env=_an - round steps = 8   correct = 0.64250 - mae = 0.42222222222222217, AFPD = 0.6000000000000001, NPRA = 0.7772727272727272 - time taken = 21.011823654174805
+ROUND 533 - total steps = 2600 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.71100 - mae = 0.44444444444444436, AFPD = 0.75, NPRA = 0.7454545454545454 - time taken = 22.71058225631714
+ROUND 570 - total steps = 2800 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.70500 - mae = 0.4, AFPD = 0.7000000000000001, NPRA = 0.8022727272727272 - time taken = 24.345913887023926
+ROUND 605 - total steps = 3000 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.86300 - mae = 0.5333333333333332, AFPD = 0.37499999999999994, NPRA = 0.6954545454545454 - time taken = 25.91167116165161
+ROUND 641 - total steps = 3200 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.74700 - mae = 0.3555555555555555, AFPD = 0.8500000000000001, NPRA = 0.825 - time taken = 27.509422063827515
+ROUND 676 - total steps = 3400 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.80400 - mae = 0.31111111111111106, AFPD = 0.51, NPRA = 0.8318181818181817 - time taken = 29.070678234100342
+ROUND 710 - total steps = 3600 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.83800 - mae = 0.37777777777777777, AFPD = 0.7833333333333334, NPRA = 0.7704545454545454 - time taken = 30.60648512840271
+ROUND 748 - total steps = 3800 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.85400 - mae = 0.17777777777777776, AFPD = 0.38333333333333336, NPRA = 0.9522727272727273 - time taken = 32.2761971950531
+ROUND 783 - total steps = 4000 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.74400 - mae = 0.4666666666666667, AFPD = 0.5166666666666667, NPRA = 0.7659090909090908 - time taken = 33.85058307647705
+ROUND 820 - total steps = 4200 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.76600 - mae = 0.5333333333333333, AFPD = 0.7166666666666668, NPRA = 0.6863636363636363 - time taken = 35.4865996837616
+ROUND 855 - total steps = 4400 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.77800 - mae = 0.4, AFPD = 0.47000000000000003, NPRA = 0.7749999999999999 - time taken = 37.117958784103394
+ROUND 888 - total steps = 4600 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.79400 - mae = 0.4888888888888888, AFPD = 0.5166666666666667, NPRA = 0.6977272727272728 - time taken = 38.62838888168335
+ROUND 924 - total steps = 4800 - 0_trunc=_False_env=_an - round steps = 10   correct = 0.95000 - mae = 0.42222222222222217, AFPD = 0.35000000000000003, NPRA = 0.7522727272727272 - time taken = 40.2379994392395

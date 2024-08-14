@@ -1,0 +1,49 @@
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+score = 0.966985739402227, time = 17.047173261642456 [Gradient Boosted Classifier] params = {}
+score = 0.7665559679624927, time = 18.840233087539673 [SVM Classifier] params = {}
+score = 0.987302207462395, time = 4.218565225601196 [Random Forest Classifer] params = {}
+score = 0.6466106661457316, time = 0.5581090450286865 [Naive Bayes Classifier] params = {}
+Accuracy: 0.8661848017190857, time = 19.590110301971436: [Cross Validation] children = ['Gradient Boosted Classifier', 'SVM Classifier', 'Random Forest Classifer', 'Naive Bayes Classifier']
+Accuracy: 0.9699159992185974, time = 9.197831630706787: [Cross Validation] children = ['Gradient Boosted Classifier', 'Random Forest Classifer']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+score = 0.9691345966008986, time = 19.165127515792847 [Gradient Boosted Classifier] params = {}
+score = 0.7681187731978902, time = 19.71962285041809 [SVM Classifier] params = {}
+score = 0.9902324672787653, time = 4.347827196121216 [Random Forest Classifer] params = {}
+score = 0.6460246141824575, time = 0.53727126121521 [Naive Bayes Classifier] params = {}
+Accuracy: 0.8661848017190857, time = 20.301085233688354: [Cross Validation] children = ['Gradient Boosted Classifier', 'SVM Classifier', 'Random Forest Classifer', 'Naive Bayes Classifier']
+Accuracy: 0.972650908380543, time = 9.311966180801392: [Cross Validation] children = ['Gradient Boosted Classifier', 'Random Forest Classifer']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+score = 0.9656182848212541, time = 19.566190481185913 [Gradient Boosted Classifier] params = {}
+score = 0.7700722797421371, time = 22.657467126846313 [SVM Classifier] params = {}
+score = 0.987302207462395, time = 5.089660406112671 [Random Forest Classifer] params = {}
+score = 0.6487595233444032, time = 0.5866162776947021 [Naive Bayes Classifier] params = {}
+Accuracy: 0.8665755030279352, time = 24.745311737060547: [Cross Validation] children = ['Gradient Boosted Classifier', 'SVM Classifier', 'Random Forest Classifer', 'Naive Bayes Classifier']
+Accuracy: 0.9697206485641727, time = 10.763883352279663: [Cross Validation] children = ['Gradient Boosted Classifier', 'Random Forest Classifer']
+score = 0.9820277397929283, time = 990.1601679325104 [Gradient Boosted Classifier] params = {'learning_rate': 0.15, 'loss': 'log_loss', 'n_estimators': 290}
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']
+['Cycle', 'my_maturity', 'Month', 'Failure_Percentage', 'last_run', 'times_ran', 'Duration', 'GapInRun']

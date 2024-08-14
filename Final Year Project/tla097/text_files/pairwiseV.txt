@@ -1,0 +1,24 @@
+Time = 2024-04-05
+ROUND 4 - total steps = 1000 - an0 - round steps = 622   correct = 0.59164 - mae = 0.23102040816326533, AFPD = 0.6739999999999999, NPRA = 0.8852714932126696 - time taken = 2.7954039573669434
+ROUND 9 - total steps = 2000 - an0 - round steps = 341   correct = 0.60117 - mae = 0.1493877551020408, AFPD = 0.63, NPRA = 0.9231674208144796 - time taken = 5.60012149810791
+ROUND 14 - total steps = 3000 - an0 - round steps = 351   correct = 0.68376 - mae = 0.14612244897959184, AFPD = 0.6873333333333334, NPRA = 0.9352036199095022 - time taken = 8.581249952316284
+ROUND 19 - total steps = 4000 - an0 - round steps = 262   correct = 0.72901 - mae = 0.08571428571428569, AFPD = 0.6593333333333333, NPRA = 0.9749095022624434 - time taken = 11.513988494873047
+ROUND 24 - total steps = 5000 - an0 - round steps = 259   correct = 0.79537 - mae = 0.0930612244897959, AFPD = 0.6875, NPRA = 0.966628959276018 - time taken = 14.320761442184448
+ROUND 28 - total steps = 6000 - an0 - round steps = 242   correct = 0.74380 - mae = 0.06448979591836734, AFPD = 0.6133333333333333, NPRA = 0.9887782805429864 - time taken = 16.999392986297607
+ROUND 33 - total steps = 7000 - an0 - round steps = 330   correct = 0.85152 - mae = 0.048163265306122444, AFPD = 0.6806666666666668, NPRA = 0.9935746606334841 - time taken = 19.896339416503906
+ROUND 38 - total steps = 8000 - an0 - round steps = 228   correct = 0.87281 - mae = 0.04489795918367346, AFPD = 0.65, NPRA = 0.9916515837104073 - time taken = 22.82960271835327
+ROUND 42 - total steps = 9000 - an0 - round steps = 217   correct = 0.77880 - mae = 0.07918367346938775, AFPD = 0.6376923076923078, NPRA = 0.9819457013574661 - time taken = 25.634169101715088
+ROUND 47 - total steps = 10000 - an0 - round steps = 233   correct = 0.82403 - mae = 0.05795918367346939, AFPD = 0.6185714285714285, NPRA = 0.9829411764705882 - time taken = 28.668158531188965
+ROUND 51 - total steps = 11000 - an0 - round steps = 269   correct = 0.88104 - mae = 0.032653061224489785, AFPD = 0.7066666666666667, NPRA = 0.9971040723981901 - time taken = 31.633101224899292
+ROUND 56 - total steps = 12000 - an0 - round steps = 247   correct = 0.88259 - mae = 0.030204081632653056, AFPD = 0.626, NPRA = 0.9969909502262444 - time taken = 34.504188537597656
+ROUND 60 - total steps = 13000 - an0 - round steps = 246   correct = 0.86992 - mae = 0.039999999999999994, AFPD = 0.6088235294117648, NPRA = 0.9928280542986425 - time taken = 37.2561616897583
+ROUND 64 - total steps = 14000 - an0 - round steps = 312   correct = 0.90064 - mae = 0.03183673469387755, AFPD = 0.641, NPRA = 0.9972398190045249 - time taken = 39.96781396865845
+ROUND 69 - total steps = 15000 - an0 - round steps = 278   correct = 0.84173 - mae = 0.029387755102040815, AFPD = 0.6436363636363636, NPRA = 0.9955203619909502 - time taken = 42.89605903625488
+ROUND 73 - total steps = 16000 - an0 - round steps = 273   correct = 0.87546 - mae = 0.03428571428571428, AFPD = 0.56375, NPRA = 0.9946606334841629 - time taken = 45.5818133354187
+ROUND 78 - total steps = 17000 - an0 - round steps = 291   correct = 0.92784 - mae = 0.02204081632653061, AFPD = 0.68875, NPRA = 0.9975565610859728 - time taken = 48.36367869377136
+ROUND 82 - total steps = 18000 - an0 - round steps = 270   correct = 0.84815 - mae = 0.05387755102040817, AFPD = 0.5922222222222222, NPRA = 0.9826923076923076 - time taken = 51.07088613510132
+ROUND 86 - total steps = 19000 - an0 - round steps = 258   correct = 0.92248 - mae = 0.02448979591836735, AFPD = 0.6668421052631579, NPRA = 0.9975339366515837 - time taken = 53.763715505599976
+ROUND 91 - total steps = 20000 - an0 - round steps = 292   correct = 0.89041 - mae = 0.040816326530612235, AFPD = 0.6212500000000001, NPRA = 0.9923981900452489 - time taken = 56.52194094657898
+ROUND 95 - total steps = 21000 - an0 - round steps = 225   correct = 0.92444 - mae = 0.017959183673469385, AFPD = 0.6130769230769231, NPRA = 0.9988687782805429 - time taken = 59.3391387462616
+ROUND 99 - total steps = 22000 - an0 - round steps = 244   correct = 0.90164 - mae = 0.022857142857142864, AFPD = 0.6950000000000001, NPRA = 0.9981221719457013 - time taken = 62.078168630599976
+ROUND 103 - total steps = 23000 - an0 - round steps = 253   correct = 0.95257 - mae = 0.008163265306122446, AFPD = 0.6486666666666667, NPRA = 0.9996832579185521 - time taken = 64.81527090072632
