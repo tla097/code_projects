@@ -1,0 +1,144 @@
+parent fitness 0.6452351863164325 - child fitness 0.4977799167856921 
+parent fitness 0.5735376356112292 - child fitness 0.5104045736315248 
+parent fitness 0.7058859223300971 - child fitness 0.5168532098288949 
+parent fitness 0.6985135459122512 - child fitness 0.48834678297042156 
+parent fitness 0.6842799770510614 - child fitness 0.5300584732289617 
+parent fitness 0.6727996621825421 - child fitness 0.4878000057075997 
+parent fitness 0.6837747211387121 - child fitness 0.6185685541822363 
+parent fitness 0.6539047525433724 - child fitness 0.6780431537522051 --------------BETTER
+parent fitness 0.6407040547281408 - child fitness 0.580792957898914 
+parent fitness 0.6145548971303016 - child fitness 0.5329131106361069 
+parent fitness 0.6467511690868816 - child fitness 0.5117331492839328 
+parent fitness 0.6511574472973749 - child fitness 0.4938211845102506 
+parent fitness 0.69506315982181 - child fitness 0.5639777060721619 
+parent fitness 0.6685837072615812 - child fitness 0.51757950635931 
+parent fitness 0.6664765887347146 - child fitness 0.670110114655466 --------------BETTER
+parent fitness 0.6832318258390566 - child fitness 0.6561185408425944 
+parent fitness 0.6855336665686563 - child fitness 0.6851143661158814 
+parent fitness 0.6864618236258644 - child fitness 0.6614117312881693 
+parent fitness 0.6864618236258644 - child fitness 0.7042701863354037 --------------BETTER
+parent fitness 0.6898638426626323 - child fitness 0.723670405939795 --------------BETTER
+parent fitness 0.6999661361327464 - child fitness 0.6499183006535948 
+parent fitness 0.6399628978715095 - child fitness 0.6117028571428571 
+parent fitness 0.7915043166017266 - child fitness 0.7589406074062327 
+parent fitness 0.7419737466392535 - child fitness 0.7713112774692104 --------------BETTER
+parent fitness 0.7267529665587918 - child fitness 0.7145075643723073 
+parent fitness 0.7462940634087524 - child fitness 0.7820081335016127 --------------BETTER
+parent fitness 0.7578241915544277 - child fitness 0.7605210420841684 --------------BETTER
+parent fitness 0.7606772103393019 - child fitness 0.7610806863818912 --------------BETTER
+parent fitness 0.7414431082331174 - child fitness 0.7462719786334298 --------------BETTER
+parent fitness 0.7496879875195008 - child fitness 0.7562333206252383 --------------BETTER
+parent fitness 0.7496879875195008 - child fitness 0.7579828231667034 --------------BETTER
+parent fitness 0.7562333206252383 - child fitness 0.7636428827536752 --------------BETTER
+parent fitness 0.7546922439966878 - child fitness 0.7534775888717156 
+parent fitness 0.7565613283342261 - child fitness 0.7547286608432492 
+parent fitness 0.7776212368382026 - child fitness 0.7597660480901148 
+parent fitness 0.722550819226324 - child fitness 0.7314038763750654 --------------BETTER
+parent fitness 0.67057575578997 - child fitness 0.7761831814883496 --------------BETTER
+parent fitness 0.774573055028463 - child fitness 0.797840875480627 --------------BETTER
+parent fitness 0.8023934181002244 - child fitness 0.7906720239502087 
+parent fitness 0.7968461538461539 - child fitness 0.7971984914954207 --------------BETTER
+parent fitness 0.7131977639147695 - child fitness 0.6904080710736334 
+parent fitness 0.7955239978428905 - child fitness 0.771729813132179 
+parent fitness 0.7952327746741155 - child fitness 0.7480761158528054 
+parent fitness 0.7513838261104361 - child fitness 0.738822652757079 
+parent fitness 0.7784926470588235 - child fitness 0.7565224436882191 
+parent fitness 0.7495520760302251 - child fitness 0.7638215324927256 --------------BETTER
+parent fitness 0.7894458704514571 - child fitness 0.7769301405665042 
+parent fitness 0.7979560834138931 - child fitness 0.7806742882108789 
+parent fitness 0.806771664469576 - child fitness 0.7691749919432807 
+parent fitness 0.7801515640116091 - child fitness 0.7669074195666448 
+parent fitness 0.7805480509455809 - child fitness 0.7785672490178049 
+parent fitness 0.7712913087785704 - child fitness 0.777084601339014 --------------BETTER
+parent fitness 0.7857259914782039 - child fitness 0.7871886120996441 --------------BETTER
+parent fitness 0.8052860488457678 - child fitness 0.7961148648648648 
+parent fitness 0.8024582262210797 - child fitness 0.8150726855394033 --------------BETTER
+parent fitness 0.8204385277995302 - child fitness 0.8223257846064225 --------------BETTER
+parent fitness 0.7854584254248914 - child fitness 0.7916600852945822 --------------BETTER
+parent fitness 0.8150401557556584 - child fitness 0.7972493345164152 
+parent fitness 0.7684158251945042 - child fitness 0.7729494357060339 --------------BETTER
+parent fitness 0.7907883817427386 - child fitness 0.7833418064734791 
+parent fitness 0.7881955118352291 - child fitness 0.7756741250717154 
+parent fitness 0.8013714826200047 - child fitness 0.7809637594583831 
+parent fitness 0.8149162371134021 - child fitness 0.8186028853454822 --------------BETTER
+parent fitness 0.8076892960613891 - child fitness 0.7992963789256907 
+parent fitness 0.7826162994053865 - child fitness 0.7591246079270031 
+parent fitness 0.7630533689607857 - child fitness 0.7644475920679886 --------------BETTER
+parent fitness 0.7793491782884829 - child fitness 0.7666495572950084 
+parent fitness 0.8212425993294814 - child fitness 0.8009251610771518 
+parent fitness 0.8008151964931169 - child fitness 0.8160389444017423 --------------BETTER
+parent fitness 0.8177204301075269 - child fitness 0.818516893374287 --------------BETTER
+parent fitness 0.7994839101396478 - child fitness 0.8022870899789347 --------------BETTER
+parent fitness 0.7910610465116279 - child fitness 0.7856026204124171 
+parent fitness 0.8069216757741348 - child fitness 0.812247435498912 --------------BETTER
+parent fitness 0.7994535066655626 - child fitness 0.7994439725075295 
+parent fitness 0.7256027554535017 - child fitness 0.7989474549790313 --------------BETTER
+parent fitness 0.7572800731818875 - child fitness 0.7905405405405406 --------------BETTER
+parent fitness 0.7404021937842779 - child fitness 0.7326142302023315 
+parent fitness 0.7409465020576131 - child fitness 0.7491496598639455 --------------BETTER
+parent fitness 0.8028596187175043 - child fitness 0.8025461596829947 
+parent fitness 0.7916879143294238 - child fitness 0.8026111791105671 --------------BETTER
+parent fitness 0.7883185587646554 - child fitness 0.7770310633213859 
+parent fitness 0.7948009633092507 - child fitness 0.7877565982404692 
+parent fitness 0.7540481753000886 - child fitness 0.77009507346586 --------------BETTER
+parent fitness 0.7809192860527563 - child fitness 0.7746265079491891 
+parent fitness 0.7974865924917954 - child fitness 0.8047420899740912 --------------BETTER
+parent fitness 0.8005482638312011 - child fitness 0.8041131105398458 --------------BETTER
+parent fitness 0.7736405676925531 - child fitness 0.7577016764579453 
+parent fitness 0.7203589290967932 - child fitness 0.754196383545854 --------------BETTER
+parent fitness 0.8077787247230185 - child fitness 0.7945950204853451 
+parent fitness 0.807198532783127 - child fitness 0.8023821098687409 
+parent fitness 0.8001457017969889 - child fitness 0.8354396343102984 --------------BETTER
+parent fitness 0.8232472014140224 - child fitness 0.8306560703415624 --------------BETTER
+parent fitness 0.8322158365261814 - child fitness 0.8321138857960871 
+parent fitness 0.8054181198799578 - child fitness 0.8090053213262383 --------------BETTER
+parent fitness 0.8185097139109763 - child fitness 0.7562625971782321 
+parent fitness 0.7007442224833529 - child fitness 0.72956369982548 --------------BETTER
+parent fitness 0.8291746641074856 - child fitness 0.8266012230447377 
+parent fitness 0.8080226968240208 - child fitness 0.8144393716629266 --------------BETTER
+parent fitness 0.8043083311705165 - child fitness 0.7991160773849233 
+parent fitness 0.8067372951498096 - child fitness 0.8094804765056254 --------------BETTER
+parent fitness 0.8331532130684179 - child fitness 0.8468031889948413 --------------BETTER
+parent fitness 0.8388629408922532 - child fitness 0.8226522842639594 
+parent fitness 0.765124277004846 - child fitness 0.7623834616943657 
+parent fitness 0.7761331390444053 - child fitness 0.7609888100636291 
+parent fitness 0.8210808738980452 - child fitness 0.8187036044998852 
+parent fitness 0.824799506477483 - child fitness 0.8102384398567837 
+parent fitness 0.8156287187623958 - child fitness 0.8131206505590742 
+parent fitness 0.8070549242424242 - child fitness 0.8027720248526367 
+parent fitness 0.8152268381713889 - child fitness 0.8201938749249378 --------------BETTER
+parent fitness 0.7718775847808106 - child fitness 0.7635236978730531 
+parent fitness 0.7837674659306538 - child fitness 0.797070595248233 --------------BETTER
+parent fitness 0.7295843160377359 - child fitness 0.7246257382227715 
+parent fitness 0.7800377617576382 - child fitness 0.807742890021371 --------------BETTER
+parent fitness 0.8316478779840849 - child fitness 0.8308598351001177 
+parent fitness 0.8013024013024013 - child fitness 0.8102062795128822 --------------BETTER
+parent fitness 0.7896424939372604 - child fitness 0.8161686637342637 --------------BETTER
+parent fitness 0.7661904416563928 - child fitness 0.7728157947753677 --------------BETTER
+parent fitness 0.7348287602643702 - child fitness 0.7281225838194981 
+parent fitness 0.8172809172809172 - child fitness 0.8154068531587451 
+parent fitness 0.7937057175811502 - child fitness 0.8103263114415531 --------------BETTER
+parent fitness 0.8052627140086025 - child fitness 0.7938706218727662 
+parent fitness 0.791441178919324 - child fitness 0.7852272727272728 
+parent fitness 0.7343053059050663 - child fitness 0.7656123276561233 --------------BETTER
+parent fitness 0.8341808153063863 - child fitness 0.7923339459175637 
+parent fitness 0.8243733648409148 - child fitness 0.8116142694249878 
+parent fitness 0.6832312627588218 - child fitness 0.661035206077442 
+parent fitness 0.7506432404616629 - child fitness 0.7873516501381889 --------------BETTER
+parent fitness 0.7816600917800499 - child fitness 0.7947499268792044 --------------BETTER
+parent fitness 0.7312308478038815 - child fitness 0.8102899012424339 --------------BETTER
+parent fitness 0.8124949486785743 - child fitness 0.7963498098859315 
+parent fitness 0.7681041497152156 - child fitness 0.7716319418699489 --------------BETTER
+parent fitness 0.7929750614682122 - child fitness 0.7801306600585718 
+parent fitness 0.8119155978485726 - child fitness 0.7874384030735823 
+parent fitness 0.7633569359510782 - child fitness 0.7522876287916996 
+parent fitness 0.7839576780097226 - child fitness 0.7394576069140217 
+parent fitness 0.8206896551724138 - child fitness 0.8389562263568285 --------------BETTER
+parent fitness 0.7523330357867403 - child fitness 0.7659815504126881 --------------BETTER
+parent fitness 0.7718296066590501 - child fitness 0.7539920564156603 
+parent fitness 0.7274816517162133 - child fitness 0.738253562294483 --------------BETTER
+parent fitness 0.700020296326365 - child fitness 0.7110997507827976 --------------BETTER
+parent fitness 0.8287062524577271 - child fitness 0.8337349397590361 --------------BETTER
+parent fitness 0.8308360477741585 - child fitness 0.8045050474612023 
+parent fitness 0.836723398367234 - child fitness 0.8164770498234601 
+parent fitness 0.8157305049297878 - child fitness 0.829110291102911 --------------BETTER
