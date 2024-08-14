@@ -1,0 +1,96 @@
+
+
+Current Biggest = 0.430335213950762, {'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.1, 'min_samples_split': 0.1, 'min_samples_leaf': 0.3545454545454546, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.5}
+
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.1, 'min_samples_split': 0.1, 'min_samples_leaf': 0.3545454545454546, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.5} -> score = 0.430335213950762
+
+
+Current Biggest = 0.430335213950762, {'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.1, 'min_samples_leaf': 0.46363636363636374, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.618}
+
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.1, 'min_samples_leaf': 0.46363636363636374, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.618} -> score = 0.430335213950762
+
+
+Current Biggest = 0.430335213950762, {'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.01, 'min_samples_split': 0.46363636363636374, 'min_samples_leaf': 0.2090909090909091, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.85}
+
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.01, 'min_samples_split': 0.46363636363636374, 'min_samples_leaf': 0.2090909090909091, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.85} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.01, 'min_samples_split': 0.1, 'min_samples_leaf': 0.390909090909091, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.85} -> score = 0.430335213950762
+
+
+Current Biggest = 0.5709899802168816, {'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.025, 'min_samples_split': 0.24545454545454548, 'min_samples_leaf': 0.42727272727272736, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.9}
+
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.025, 'min_samples_split': 0.24545454545454548, 'min_samples_leaf': 0.42727272727272736, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.9} -> score = 0.5709899802168816
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.01, 'min_samples_split': 0.5, 'min_samples_leaf': 0.42727272727272736, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.85} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.01, 'min_samples_split': 0.390909090909091, 'min_samples_leaf': 0.390909090909091, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.85} -> score = 0.430335213950762
+
+
+Current Biggest = 0.5856066975625244, {'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.13636363636363638, 'min_samples_leaf': 0.24545454545454548, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 0.5}
+
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.13636363636363638, 'min_samples_leaf': 0.24545454545454548, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 0.5} -> score = 0.5856066975625244
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.01, 'min_samples_split': 0.2090909090909091, 'min_samples_leaf': 0.46363636363636374, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 1.0} -> score = 0.430335213950762
+
+
+Current Biggest = 0.5918594146883548, {'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.1, 'min_samples_split': 0.28181818181818186, 'min_samples_leaf': 0.31818181818181823, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.95}
+
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.1, 'min_samples_split': 0.28181818181818186, 'min_samples_leaf': 0.31818181818181823, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.95} -> score = 0.5918594146883548
+
+
+Current Biggest = 0.7007845471864009, {'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.3545454545454546, 'min_samples_leaf': 0.24545454545454548, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 1.0}
+
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.3545454545454546, 'min_samples_leaf': 0.24545454545454548, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 1.0} -> score = 0.7007845471864009
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.2, 'min_samples_split': 0.17272727272727273, 'min_samples_leaf': 0.3545454545454546, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 1.0} -> score = 0.6115124468786636
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.05, 'min_samples_split': 0.5, 'min_samples_leaf': 0.42727272727272736, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.8} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.1, 'min_samples_split': 0.17272727272727273, 'min_samples_leaf': 0.28181818181818186, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 0.5} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.075, 'min_samples_split': 0.17272727272727273, 'min_samples_leaf': 0.3545454545454546, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.95} -> score = 0.5880711154259477
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.025, 'min_samples_split': 0.1, 'min_samples_leaf': 0.1, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 0.95} -> score = 0.5974471534290738
+
+
+Current Biggest = 0.7607591924335677, {'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.3545454545454546, 'min_samples_leaf': 0.1, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.9}
+
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.3545454545454546, 'min_samples_leaf': 0.1, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.9} -> score = 0.7607591924335677
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.1, 'min_samples_split': 0.42727272727272736, 'min_samples_leaf': 0.24545454545454548, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 0.5} -> score = 0.5811138231486909
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.1, 'min_samples_split': 0.13636363636363638, 'min_samples_leaf': 0.24545454545454548, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 1.0} -> score = 0.6764054867624072
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.05, 'min_samples_split': 0.24545454545454548, 'min_samples_leaf': 0.5, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.5} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.1, 'min_samples_split': 0.13636363636363638, 'min_samples_leaf': 0.3545454545454546, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 1.0} -> score = 0.6011212876123485
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.15, 'min_samples_split': 0.1, 'min_samples_leaf': 0.31818181818181823, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 1.0} -> score = 0.6435530083772959
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.025, 'min_samples_split': 0.24545454545454548, 'min_samples_leaf': 0.28181818181818186, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.618} -> score = 0.5917013939771395
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.01, 'min_samples_split': 0.24545454545454548, 'min_samples_leaf': 0.390909090909091, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 1.0} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.1, 'min_samples_split': 0.46363636363636374, 'min_samples_leaf': 0.42727272727272736, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 0.8} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.05, 'min_samples_split': 0.5, 'min_samples_leaf': 0.390909090909091, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.618} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.075, 'min_samples_split': 0.3545454545454546, 'min_samples_leaf': 0.24545454545454548, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.95} -> score = 0.662500213706526
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.075, 'min_samples_split': 0.42727272727272736, 'min_samples_leaf': 0.13636363636363638, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 1.0} -> score = 0.6701950529992186
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.01, 'min_samples_split': 0.24545454545454548, 'min_samples_leaf': 0.46363636363636374, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.5} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.05, 'min_samples_split': 0.28181818181818186, 'min_samples_leaf': 0.390909090909091, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.85} -> score = 0.5848256917985541
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.05, 'min_samples_split': 0.17272727272727273, 'min_samples_leaf': 0.17272727272727273, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 1.0} -> score = 0.6412078998143806
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.390909090909091, 'min_samples_leaf': 0.46363636363636374, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.618} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.01, 'min_samples_split': 0.1, 'min_samples_leaf': 0.1, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.5} -> score = 0.499616488374365
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.1, 'min_samples_split': 0.1, 'min_samples_leaf': 0.46363636363636374, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 0.85} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.2, 'min_samples_split': 0.28181818181818186, 'min_samples_leaf': 0.5, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.85} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.025, 'min_samples_split': 0.17272727272727273, 'min_samples_leaf': 0.31818181818181823, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 0.8} -> score = 0.5857228470593983
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.025, 'min_samples_split': 0.42727272727272736, 'min_samples_leaf': 0.1, 'max_features': 'sqrt', 'criterion': 'squared_error', 'subsample': 0.8} -> score = 0.6031902568141853
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.2, 'min_samples_split': 0.3545454545454546, 'min_samples_leaf': 0.13636363636363638, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.85} -> score = 0.7397394917448221
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.2, 'min_samples_split': 0.31818181818181823, 'min_samples_leaf': 0.1, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.5} -> score = 0.6990260783020711
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.390909090909091, 'min_samples_leaf': 0.13636363636363638, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.618} -> score = 0.7030879982415007
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.2, 'min_samples_split': 0.13636363636363638, 'min_samples_leaf': 0.24545454545454548, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.95} -> score = 0.7058675263774912
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.15, 'min_samples_split': 0.2090909090909091, 'min_samples_leaf': 0.2090909090909091, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.618} -> score = 0.602529308323564
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.1, 'min_samples_split': 0.28181818181818186, 'min_samples_leaf': 0.390909090909091, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.95} -> score = 0.6042815491891363
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.01, 'min_samples_split': 0.46363636363636374, 'min_samples_leaf': 0.28181818181818186, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.8} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.075, 'min_samples_split': 0.17272727272727273, 'min_samples_leaf': 0.24545454545454548, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.95} -> score = 0.6731659705939819
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.15, 'min_samples_split': 0.42727272727272736, 'min_samples_leaf': 0.390909090909091, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.9} -> score = 0.5917040347792107
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.05, 'min_samples_split': 0.390909090909091, 'min_samples_leaf': 0.42727272727272736, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.95} -> score = 0.5816631099794842
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.15, 'min_samples_split': 0.24545454545454548, 'min_samples_leaf': 0.46363636363636374, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.618} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.01, 'min_samples_split': 0.24545454545454548, 'min_samples_leaf': 0.46363636363636374, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.95} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.075, 'min_samples_split': 0.390909090909091, 'min_samples_leaf': 0.46363636363636374, 'max_features': 'log2', 'criterion': 'friedman_mse', 'subsample': 0.5} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.025, 'min_samples_split': 0.42727272727272736, 'min_samples_leaf': 0.3545454545454546, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.618} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 8, 'learning_rate': 0.15, 'min_samples_split': 0.17272727272727273, 'min_samples_leaf': 0.17272727272727273, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 1.0} -> score = 0.7305162081135209
+
+
+Current Biggest = 0.430335213950762, {'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.01, 'min_samples_split': 0.1, 'min_samples_leaf': 0.46363636363636374, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.9}
+
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.01, 'min_samples_split': 0.1, 'min_samples_leaf': 0.46363636363636374, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.9} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.01, 'min_samples_split': 0.31818181818181823, 'min_samples_leaf': 0.390909090909091, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.85} -> score = 0.430335213950762
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.05, 'min_samples_split': 0.17272727272727273, 'min_samples_leaf': 0.5, 'max_features': 'sqrt', 'criterion': 'friedman_mse', 'subsample': 0.618} -> score = 0.430335213950762
+
+
+Current Biggest = 0.6410898116940211, {'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.2090909090909091, 'min_samples_leaf': 0.31818181818181823, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.95}
+
+{'loss': 'log_loss', 'n_estimators': 10, 'max_depth': 3, 'learning_rate': 0.2, 'min_samples_split': 0.2090909090909091, 'min_samples_leaf': 0.31818181818181823, 'max_features': 'log2', 'criterion': 'squared_error', 'subsample': 0.95} -> score = 0.6410898116940211

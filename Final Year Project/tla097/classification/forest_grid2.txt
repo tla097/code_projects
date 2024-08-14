@@ -1,0 +1,110 @@
+Index(['Cycle', 'Month', 'Failure_Percentage', 'Num_Previous_Execution',
+       'Verdict', 'LastRan', 'LastResults', 'My_Maturity'],
+      dtype='object')
+score = 0.789277351382376, est = 10                                BEST = 0.789277351382376
+score = 0.7925982286781946, est = 20                                BEST = 0.7925982286781946
+score = 0.7959589317116061, est = 30                                BEST = 0.7959589317116061
+score = 0.7970136039468543, est = 40                                BEST = 0.7970136039468543
+score = 0.7970919731828838, est = 50                                BEST = 0.7970919731828838
+Index(['Cycle', 'Month', 'Failure_Percentage', 'Num_Previous_Execution',
+       'Verdict', 'LastRan', 'LastResults'],
+      dtype='object')
+score = 0.7872836221424384, est = 10                                BEST = 0.7872836221424384
+score = 0.789082023617624, est = 20                                BEST = 0.789082023617624
+score = 0.7900578076152793, est = 30                                BEST = 0.7900578076152793
+score = 0.7927928847938648, est = 40                                BEST = 0.7927928847938648
+score = 0.7929885025889019, est = 50                                BEST = 0.7929885025889019
+score = 0.7892763439087533, est = 60
+score = 0.7925975570291129, est = 70
+score = 0.7935354081184056, est = 80                                BEST = 0.7935354081184056
+score = 0.7924803847938647, est = 90
+score = 0.7929106065601796, est = 100
+score = 0.791777565088902, est = 110
+Index(['Cycle', 'Month', 'Failure_Percentage', 'Num_Previous_Execution',
+       'Verdict', 'LastRan', 'LastResults', 'My_Maturity', 'Duration'],
+      dtype='object')
+score = 0.9854252759867134, est = 10                                BEST = 0.9854252759867134
+score = 0.9890198044890581, est = 20                                BEST = 0.9890198044890581
+score = 0.9882774338120359, est = 30
+score = 0.9880819533997656, est = 40
+score = 0.9889415879005471, est = 50
+score = 0.9895277696365767, est = 60                                BEST = 0.9895277696365767
+score = 0.9884726852530286, est = 70
+Index(['Cycle', 'Month', 'Failure_Percentage', 'Num_Previous_Execution',
+       'Verdict', 'LastRan', 'LastResults', 'Duration'],
+      dtype='object')
+score = 0.9854640026621727, est = 10                                BEST = 0.9854640026621727
+score = 0.985542310839195, est = 20                                BEST = 0.985542310839195
+score = 0.9861280651621728, est = 30                                BEST = 0.9861280651621728
+score = 0.9852297803096912, est = 40
+score = 0.9873397201055099, est = 50                                BEST = 0.9873397201055099
+score = 0.9871051771932396, est = 60
+score = 0.9860110150449394, est = 70
+score = 0.9871441328399765, est = 80
+score = 0.9873395216637357, est = 90
+score = 0.9879256423407581, est = 100                                BEST = 0.9879256423407581
+Index(['Cycle', 'Month', 'Failure_Percentage', 'Num_Previous_Execution',
+       'Verdict', 'CycleRun', 'LastRan', 'LastResults'],
+      dtype='object')
+score = 0.7857213205842125, est = 10                                BEST = 0.7857213205842125
+score = 0.7914652482659241, est = 20                                BEST = 0.7914652482659241
+score = 0.7892770613520905, est = 30
+score = 0.7874006875244237, est = 40
+score = 0.7909177932053536, est = 50
+score = 0.7908009873241502, est = 60
+score = 0.7928714219421649, est = 70                                BEST = 0.7928714219421649
+score = 0.7917772903233685, est = 80
+score = 0.7918555679708872, est = 90
+Index(['Cycle', 'Month', 'Failure_Percentage', 'Num_Previous_Execution',
+       'LastRan', 'LastResults', 'My_Maturity'],
+      dtype='object')
+score = 0.7777919231144979, est = 10                                BEST = 0.7777919231144979
+score = 0.7778306650547089, est = 20                                BEST = 0.7778306650547089
+score = 0.7790812909095349, est = 30                                BEST = 0.7790812909095349
+score = 0.7824807053536538, est = 40                                BEST = 0.7824807053536538
+score = 0.7813865737348573, est = 50
+score = 0.7823633957356388, est = 60
+score = 0.7809958876758499, est = 70
+score = 0.7822069930881204, est = 80
+score = 0.782441826030676, est = 90
+score = 0.7824412917643611, est = 100
+score = 0.7841216814429465, est = 110                                BEST = 0.7841216814429465
+score = 0.783574745383939, est = 120
+score = 0.7830669481486908, est = 130
+Index(['Month', 'Failure_Percentage', 'Num_Previous_Execution', 'Verdict',
+       'LastRan', 'LastResults', 'My_Maturity'],
+      dtype='object')
+score = 0.7906843493552169, est = 10                                BEST = 0.7906843493552169
+score = 0.7950989003272764, est = 20                                BEST = 0.7950989003272764
+score = 0.7961933983001173, est = 30                                BEST = 0.7961933983001173
+score = 0.796740303829621, est = 40                                BEST = 0.796740303829621
+score = 0.7998657159779211, est = 50                                BEST = 0.7998657159779211
+score = 0.8006865169499806, est = 60                                BEST = 0.8006865169499806
+score = 0.7983421410951543, est = 70
+score = 0.7992798853311841, est = 80
+score = 0.7995142450664321, est = 90
+Index(['Duration'], dtype='object')
+score = 0.3016642243063697, est = 10                                BEST = 0.3016642243063697
+score = 0.29248015582258696, est = 20
+score = 0.29326171111762406, est = 30
+score = 0.3016642243063697, est = 40
+score = 0.31190180490425945, est = 50                                BEST = 0.31190180490425945
+score = 0.3084629616060961, est = 60
+Index(['Cycle', 'Month', 'Failure_Percentage', 'Num_Previous_Execution',
+       'Verdict', 'LastResults', 'My_Maturity'],
+      dtype='object')
+score = 0.7936530230314576, est = 10                                BEST = 0.7936530230314576
+score = 0.7976781854484174, est = 20                                BEST = 0.7976781854484174
+score = 0.7985764855656508, est = 30                                BEST = 0.7985764855656508
+score = 0.799671044597499, est = 40                                BEST = 0.799671044597499
+score = 0.7972870567116062, est = 50
+score = 0.7987328424189135, est = 60
+Index(['Cycle', 'Month', 'Failure_Percentage', 'Num_Previous_Execution',
+       'Verdict', 'LastRan', 'LastResults', 'gap_cats', 'My_Maturity'],
+      dtype='object')
+score = 0.791777656677413, est = 10                                BEST = 0.791777656677413
+score = 0.7957246177706134, est = 20                                BEST = 0.7957246177706134
+score = 0.7975996635648691, est = 30                                BEST = 0.7975996635648691
+score = 0.7994362116549434, est = 40                                BEST = 0.7994362116549434
+score = 0.7992802211557248, est = 50
+score = 0.8006477902745214, est = 60                                BEST = 0.8006477902745214

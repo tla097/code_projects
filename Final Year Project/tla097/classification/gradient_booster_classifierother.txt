@@ -1,0 +1,5 @@
+
+
+Current Biggest = 0.9907780444021104, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9907780444021104

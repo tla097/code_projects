@@ -1,0 +1,49 @@
+CHANGING ESTIMATORS
+n_estimators:3, max_depth:3, learning rate:1 -> score = 0.8159796835319398
+n_estimators:5, max_depth:3, learning rate:1 -> score = 0.8114866184801719
+n_estimators:20, max_depth:3, learning rate:1 -> score = 0.8251611642899004
+n_estimators:50, max_depth:3, learning rate:1 -> score = 0.8067982027739793
+n_estimators:70, max_depth:3, learning rate:1 -> score = 0.80640750146513
+n_estimators:100, max_depth:3, learning rate:1 -> score = 0.8093377612815003
+n_estimators:1000, max_depth:3, learning rate:1 -> score = 0.8136354756788435
+
+CHANGING DEPTH
+n_estimators:3, max_depth:5, learning rate:1 -> score = 0.832389138503614
+n_estimators:3, max_depth:10, learning rate:1 -> score = 0.8216448525102559
+n_estimators:3, max_depth:15, learning rate:1 -> score = 0.8296542293416683
+n_estimators:3, max_depth:20, learning rate:1 -> score = 0.8302402813049423
+n_estimators:3, max_depth:25, learning rate:1 -> score = 0.8210588005469819
+n_estimators:3, max_depth:30, learning rate:1 -> score = 0.8310216839226411
+
+LOOP NOWn_estimators:11, max_depth:31, learning rate:1 -> score = 0.8275053721429967
+n_estimators:11, max_depth:36, learning rate:1 -> score = 0.8189099433483102
+n_estimators:11, max_depth:41, learning rate:1 -> score = 0.8235983590545028
+n_estimators:11, max_depth:46, learning rate:1 -> score = 0.8286774760695448
+n_estimators:11, max_depth:51, learning rate:1 -> score = 0.8343426450478609
+n_estimators:11, max_depth:56, learning rate:1 -> score = 0.8300449306505177
+n_estimators:11, max_depth:61, learning rate:1 -> score = 0.8290681773783942
+n_estimators:11, max_depth:66, learning rate:1 -> score = 0.8245751123266263
+n_estimators:11, max_depth:71, learning rate:1 -> score = 0.8251611642899004
+n_estimators:11, max_depth:76, learning rate:1 -> score = 0.8235983590545028
+n_estimators:11, max_depth:81, learning rate:1 -> score = 0.8200820472748583
+n_estimators:11, max_depth:86, learning rate:1 -> score = 0.825356514944325
+n_estimators:11, max_depth:91, learning rate:1 -> score = 0.8271146708341472
+n_estimators:11, max_depth:96, learning rate:1 -> score = 0.8267239695252979
+n_estimators:16, max_depth:1, learning rate:1 -> score = 0.7993748779058409
+n_estimators:16, max_depth:6, learning rate:1 -> score = 0.8214495018558312
+n_estimators:16, max_depth:11, learning rate:1 -> score = 0.8239890603633522
+n_estimators:16, max_depth:16, learning rate:1 -> score = 0.8165657354952139
+n_estimators:16, max_depth:21, learning rate:1 -> score = 0.8235983590545028
+n_estimators:16, max_depth:26, learning rate:1 -> score = 0.8288728267239696
+n_estimators:16, max_depth:31, learning rate:1 -> score = 0.82223090447353
+n_estimators:16, max_depth:36, learning rate:1 -> score = 0.8286774760695448
+n_estimators:16, max_depth:41, learning rate:1 -> score = 0.827310021488572
+n_estimators:16, max_depth:46, learning rate:1 -> score = 0.8251611642899004
+n_estimators:16, max_depth:51, learning rate:1 -> score = 0.8161750341863645
+n_estimators:16, max_depth:56, learning rate:1 -> score = 0.8343426450478609
+n_estimators:16, max_depth:61, learning rate:1 -> score = 0.8220355538191053
+n_estimators:16, max_depth:66, learning rate:1 -> score = 0.8300449306505177
+n_estimators:16, max_depth:71, learning rate:1 -> score = 0.8333658917757375
+n_estimators:16, max_depth:76, learning rate:1 -> score = 0.8187145926938856
+n_estimators:16, max_depth:81, learning rate:1 -> score = 0.8280914241062708
+n_estimators:16, max_depth:86, learning rate:1 -> score = 0.8257472162531745

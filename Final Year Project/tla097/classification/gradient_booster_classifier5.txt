@@ -1,0 +1,20 @@
+
+
+Current Biggest = 0.7904119651230949, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.7904119651230949
+
+
+Current Biggest = 0.9917158344323953, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9917158344323953
+
+
+Current Biggest = 0.991364210873388, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.991364210873388
+
+
+Current Biggest = 0.9916376789028917, {'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76}
+
+{'n_estimators': 10, 'max_depth': 5, 'learning_rate': 0.76} -> score = 0.9916376789028917

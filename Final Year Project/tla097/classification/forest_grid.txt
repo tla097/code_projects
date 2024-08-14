@@ -1,0 +1,159 @@
+score = 0.7920908283264947, est = 10
+
+
+best = 0.7920908283264947, est = 10
+
+score = 0.7947082142682689, est = 20
+
+
+best = 0.7947082142682689, est = 20
+
+score = 0.7974039999755764, est = 30
+
+
+best = 0.7974039999755764, est = 30
+
+score = 0.7961540152403281, est = 40
+score = 0.7981468133304025, est = 50
+
+
+best = 0.7981468133304025, est = 50
+
+score = 0.7980295037123877, est = 60
+score = 0.797013955036147, est = 70
+score = 0.7981861811254396, est = 80
+
+
+best = 0.7981861811254396, est = 80
+
+score = 0.7978734674189136, est = 90
+score = 0.79865468688941, est = 100
+
+
+best = 0.79865468688941, est = 100
+
+score = 0.7992799463901914, est = 110
+
+
+best = 0.7992799463901914, est = 110
+
+score = 0.7981859979484175, est = 120
+score = 0.7973654717418913, est = 130
+score = 0.799787819949199, est = 140
+
+
+best = 0.799787819949199, est = 140
+
+score = 0.799709801802462, est = 150
+score = 0.7989672021541618, est = 160
+score = 0.799592507449199, est = 170
+score = 0.7993581782434545, est = 180
+score = 0.7992015160951544, est = 190
+score = 0.7996317073319656, est = 200
+score = 0.7984596644196952, est = 210
+score = 0.7991629268024618, est = 220
+score = 0.8004131252442359, est = 230
+
+
+best = 0.8004131252442359, est = 230
+
+score = 0.7997490169499805, est = 240
+score = 0.7983032617721767, est = 250
+score = 0.8001788723622509, est = 260
+score = 0.7990847254787027, est = 270
+score = 0.7993190241549433, est = 280
+
+
+Replaced My Maturity with Duration
+score = 0.981048642658265, est = 10
+
+
+best = 0.981048642658265, est = 10
+
+score = 0.9876521285169989, est = 20
+
+
+best = 0.9876521285169989, est = 20
+
+score = 0.9866361982219617, est = 30
+score = 0.9872613508694803, est = 40
+score = 0.9860499859564282, est = 50
+score = 0.9860502912514655, est = 60
+score = 0.9873004744284876, est = 70
+score = 0.986753553634232, est = 80
+score = 0.9881601394587729, est = 90
+
+
+best = 0.9881601394587729, est = 90
+
+score = 0.9874178145760062, est = 100
+score = 0.9870659773104726, est = 120
+score = 0.9885509934300508, est = 130
+
+
+best = 0.9885509934300508, est = 130
+
+score = 0.9877303145760061, est = 140
+
+put back 
+score = 0.7870889660267684, est = 10
+
+
+best = 0.7870889660267684, est = 10
+
+score = 0.7919342730314576, est = 20
+
+
+best = 0.7919342730314576, est = 20
+
+
+
+
+
+added in duration
+
+
+score = 0.9869098494284877, est = 10
+
+
+best = 0.9869098494284877, est = 10
+
+score = 0.9869098036342322, est = 20
+score = 0.9883555130177804, est = 30
+
+
+best = 0.9883555130177804, est = 30
+
+score = 0.9886679824882767, est = 40
+
+
+best = 0.9886679824882767, est = 40
+
+added only cycle run
+score = 0.7918955005617428, est = 10
+
+
+best = 0.7918955005617428, est = 10
+
+score = 0.7960758139165689, est = 20
+
+
+best = 0.7960758139165689, est = 20
+
+score = 0.7984598018024619, est = 30
+
+
+best = 0.7984598018024619, est = 30
+
+Index(['Cycle', 'Month', 'Failure_Percentage', 'Num_Previous_Execution',
+       'Verdict', 'LastRan', 'LastResults', 'My_Maturity'],
+      dtype='object')
+score = 0.7905667497069166, est = 10       BEST = 0.7905667497069166
+Index(['Cycle', 'Month', 'Failure_Percentage', 'Num_Previous_Execution',
+       'Verdict', 'LastRan', 'LastResults', 'My_Maturity'],
+      dtype='object')
+score = 0.7938094714732318, est = 20       BEST = 0.7938094714732318
+Index(['Cycle', 'Month', 'Failure_Percentage', 'Num_Previous_Execution',
+       'Verdict', 'LastRan', 'LastResults', 'My_Maturity'],
+      dtype='object')
+score = 0.7943171313257131, est = 30       BEST = 0.7943171313257131
